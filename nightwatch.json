@@ -20,7 +20,7 @@
   },
   "test_settings": {
     "default": {
-      "launch_url": "http://customer-polymer-myproject.52.57.149.128.nip.io",
+      "launch_url": "http://customer-polymer:8080",
       "selenium_port": 4444,
       "selenium_host": "localhost",
       "silent": true,
