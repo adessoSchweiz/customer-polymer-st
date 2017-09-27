@@ -37,7 +37,7 @@
       }
     },
     "integration": {
-      "launch_url": "http://customer-polymer",
+      "launch_url": "http://customer-polymer-myproject.127.0.0.1.nip.io",
       "selenium_port": 4444,
       "selenium_host": "localhost",
       "silent": true,
